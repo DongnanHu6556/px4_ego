@@ -1,4 +1,4 @@
-# State machine for state management and trajectory command publish
+# State machine for state management and ego planner trajectory command publish
 ```
 git clone https://github.com/DongnanHu6556/px4_ego.git
 cd px4_ego
