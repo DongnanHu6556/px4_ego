@@ -17,3 +17,5 @@ python3 mode_key.py
 - 'o' means "switch to offboard mode. (If there is no trajectory command, it will return to position mode)"
 - 'l' means "land"
 - 'd' means "disarm"
+When you input 't', the drone will auto takeoff.
+<img width="1830" height="1042" alt="takeoff_screenshot" src="https://github.com/user-attachments/assets/883905a2-4168-4a9b-98cc-df09a062ec74" />
